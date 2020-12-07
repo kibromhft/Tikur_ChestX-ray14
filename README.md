@@ -40,13 +40,12 @@ kas200.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	     
 
 ```
 
-You can use the `image_dataset_loader.load` function to load this dataset as NumPy arrays:
+You can use this image dataset for training:
 
-```python
-import image_dataset_loader
+```Programming Language
+Python 
 
-(x_train, y_train), (x_test, y_test) = image_dataset_loader.load('./data', ['train', 'test'])
-```
+ ```
 
 The shape of the `x_*` arrays will be `(instances, rows, cols, channels)` for color images and `(instances, rows, cols)` for grayscale images.
 Also, the shape of the `y_*` arrays will be `(instances,)`.
