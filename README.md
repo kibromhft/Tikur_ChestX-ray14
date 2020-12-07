@@ -51,18 +51,3 @@ Python
 All images in the dataset must have the same shape , it was originally extraced with an image resolution of 664 x 680.
 Also, you can validate your models using this real-world dataset
 
-## API
-
-```python
-load(dataset_path, set_names,
-     shuffle=True, seed=None,
-     x_dtype='uint8', y_dtype='uint32')
-```
-
-- **`dataset_path:`** Path to the dataset directory.
-- **`set_names:`** List of the data subsets (subdirectories of the dataset directory).
-- **`shuffle:`** Whether to shuffle the samples. If false, instances will be sorted by class name and then by file name.
-- **`seed:`** Random seed used for shuffling (see the [docs](https://docs.python.org/3/library/random.html#random.seed)).
-- **`x_dtype:`** NumPy data type for the X arrays (see the [docs](https://numpy.org/devdocs/user/basics.types.html)).
-- **`y_dtype:`** NumPy data type for the Y arrays (see the [docs](https://numpy.org/devdocs/user/basics.types.html)).
-- Returns a tuple of `(x, y)` tuples corresponding to `set_names`.
