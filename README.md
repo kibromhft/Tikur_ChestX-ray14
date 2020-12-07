@@ -1,6 +1,6 @@
 # Tikur Anbessa Specialized Hospital :  image dataset 
 
-[![AAU license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/AAU)
+[![AAU license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](https://opensource.org/licenses/AAU)
 
 ## Installation
 
