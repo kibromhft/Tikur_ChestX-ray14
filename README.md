@@ -23,7 +23,14 @@ mat014.jpg	0	0	0	0	1	0	0	0	0	0	0	0	0	0
 mes015.jpg	0	0	1	0	0	0	0	0	1	0	0	0	0	0
 seb016.jpg	0	0	0	0	0	0	0	0	1	0	0	0	0	0
 she017.jpg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-
+\begin{array} {|r|r|}
+\hline
+Atelectasis	&Cardiomegaly	&Effusion	&Infiltration	&Mass	$Nodule	
+ \\ 
+\hline
+Atelectasis	&Cardiomegaly	&Effusion	&Infiltration	&Mass	$Nodule	 \\
+\hline
+\end{array}
 
 
       ...
