@@ -15,25 +15,15 @@ Pleural_Thickening and Hernia
 Suppose you have an image dataset in a directory which looks like this:
 
 ```
-FileName	Atelectasis	Cardiomegaly	Effusion	Infiltration	Mass	Nodule	Pneumonia	Pneumothorax	Consolidation	Edema	Emphysema	Fibrosis	Pleural_Thickening	Hernia
-abe001.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-abr002.jpg	0           	0	0	0	0	0	0	0	0	0	0	0	0	0
-ama0003.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-aye004.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-biz005.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-deb006.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-der007.jpg	0	            1	0	0	0	0	0	0	0	0	0	0	0	0
-ebn008.jpg	0	            1	0	0	0	0	0	0	0	0	0	0	0	0
-ete009.jpg	0	            1	0	0	0	0	0	0	0	0	0	0	0	0
-fan010.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-jat011.jpg	0	            0	0	0	0	1	0	0	0	0	0	0	0	0
-kal012.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-kem013.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-mat014.jpg	0	            0	0	0	1	0	0	0	0	0	0	0	0	0
-mes015.jpg	0	            0	1	0	0	0	0	0	1	0	0	0	0	0
-seb016.jpg	0	            0	0	0	0	0	0	0	1	0	0	0	0	0
-she017.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
-tam018.jpg	0	            0	0	0	0	0	0	0	0	0	0	0	0	0
+FileName  Atelectasis Cardiomegaly Effusion Infiltration Mass Nodule Pneumonia Pneumothorax Consolidation Edema Emphysema Fibrosis Pleural_T Hernia
+jat011.jpg	      0	      0	    0 	0          0    1	      0	      0	      0	      0	   0	     0	 0	    0
+kal012.jpg	      0	      0	    0	      0	     0    0       0	      0	      0	      0	   0	     0	 0	    0
+kem013.jpg	      0	      0	    0	      0	     0    0	      0	      0	      0	      0	   0	     0	 0	    0
+mat014.jpg	      0	      0	    0	      0	     1    0	      0	      0	      0	      0	   0	     0	 0	    0
+mes015.jpg	      0	      0	    1	      0	     0    0	      0	      0	      1	      0	   0	     0	 0	    0
+seb016.jpg	      0	      0	    0	      0	     0    0	      0	      0	      1	      0	   0	     0	 0	    0
+she017.jpg	      0	      0	    0	      0	     0    0	      0	      0	      0	      0	   0	     0	 0	    0
+
 
       ...
   test/
