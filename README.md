@@ -2,10 +2,12 @@
 
 [![AAU license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
 
-## Installation
+## Disease Categories
 
 ```bash
-pip install image-dataset-loader
+Atelectasis, Cardiomegaly, Effusion, Infiltration, Mass, Nodule, Pneumonia,
+Pneumothorax, Consolidation, Edema, Emphysema, Fibrosis, 
+Pleural_Thickening and Hernia
 ```
 
 ## Overview
