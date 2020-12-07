@@ -48,21 +48,8 @@ Python
 
  ```
 
-The shape of the `x_*` arrays will be `(instances, rows, cols, channels)` for color images and `(instances, rows, cols)` for grayscale images.
-Also, the shape of the `y_*` arrays will be `(instances,)`.
-
-All images in the dataset must have the same shape.
-Also, all data subsets (i.e., `train` and `test` in this example) must contain the same set of classes.
-Class names will be sorted alphabetically.
-So, in this example, `cats` and `dogs` will be represented by `0` and `1`, respectively.
-
-You can also load a single data subset. For example:
-
-```python
-(x_train, y_train), = image_dataset_loader.load('./data', ['train'])
-```
-
-Note that the comma after `(x_train, y_train)` is required, because the function always returns a tuple of tuples.
+All images in the dataset must have the same shape , it was originally extraced with an image resolution of 664 x 680.
+Also, you can validate your models using this real-world dataset
 
 ## API
 
