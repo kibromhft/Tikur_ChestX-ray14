@@ -38,23 +38,6 @@ elf198.jpg	      0 	    0    	    0     	     0 	        1	    1	     0   	     
 get199.jpg	      0 	    1    	    1     	     0 	        0	    0	     0   	      0	             0	          1 	     0      	  0 	             0	          0
 kas200.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      1	             0	          0 	     0      	  0 	             0	          0
 
-
-
-
-
- 
-
-
-      ...
-  test/
-    cats/
-      cat0001.jpg
-      cat0002.jpg
-      ...
-    dogs/
-      dog0001.jpg
-      dog0002.jpg
-      ...
 ```
 
 You can use the `image_dataset_loader.load` function to load this dataset as NumPy arrays:
