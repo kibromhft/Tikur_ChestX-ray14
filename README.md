@@ -18,12 +18,26 @@ Suppose you have an image dataset in a directory which looks like this:
 FileName	Atelectasis	Cardiomegaly	Effusion	Infiltration	Mass	Nodule	Pneumonia	Pneumothorax	Consolidation	Edema	Emphysema	Fibrosis	Pleural_Th	Hernia
 jat011.jpg	      0 	    0    	    0     	     0 	        0	    1	     0   	      0	             0	          0 	     0      	  0 	             0	          0
 kal012.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      0	             0	          0 	     0      	  0 	             0	          0
+kem013.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      0	             0	          0 	     0      	  0 	             0	          0
+mat014.jpg	      0 	    0    	    0     	     0 	        1	    0	     0   	      0	             0	          0 	     0      	  0 	             0	          0
+mes015.jpg	      0 	    0    	    1     	     0 	        0	    0	     0   	      0	             1	          0 	     0      	  0 	             0	          0
+seb016.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      0	             1	          0 	     0      	  0 	             0	          0
+she017.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      0	             0	          0 	     0      	  0 	             0	          0
+.
+.
+.
+kas028.jpg	      0 	    0    	    0     	     0 	        0	    0	     1   	      0	             0	          0 	     0      	  0 	             0	          0
+kid029.jpg	      0 	    0    	    0     	     0 	        0	    0	     0   	      1	             0	          0 	     0      	  0 	             0	          0
+mek030.jpg	      0 	    0    	    0     	     0 	        1	    0	     0   	      0	             0	          0 	     0      	  0 	             0	          0
+mul031.jpg	      0 	    0    	    0     	     0 	        0	    0	     1   	      0	             0	          0 	     0      	  0 	             0	          0
+mus032.jpg	      0 	    0    	    0     	     0 	        0	    1	     0   	      0	             0	          0 	     0      	  0 	             0	          0
 
-kem013.jpg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-mat014.jpg	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-mes015.jpg	0	0	1	0	0	0	0	0	1	0	0	0	0	0
-seb016.jpg	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-she017.jpg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+kas028.jpg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+kid029.jpg	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+mek030.jpg	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+mul031.jpg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+mus032.jpg	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+
 
  
 
