@@ -1,6 +1,6 @@
 # Tikur Anbessa Specialized Hospital :  image dataset 
 
-[![Addis Ababa University license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
+[![AAU license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
 
 ## Disease Categories
 
