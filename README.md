@@ -1,6 +1,6 @@
 # Tikur Anbessa Specialized Hospital :  image dataset 
 
-[![AAU license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
+[![KB license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
 
 ## Disease Categories
 
