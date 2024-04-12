@@ -1,4 +1,4 @@
-# Tikur Anbessa Specialized Hospital :  image dataset 
+# Tikur Chest X-ray Imaging Dataset
 
 [![KB license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
 
