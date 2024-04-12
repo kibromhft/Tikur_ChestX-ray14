@@ -1,6 +1,6 @@
 # Tikur Chest X-ray Imaging Dataset
 
-[![KB license](https://img.shields.io/badge/license-AAU-brightgreen.svg)](#)
+[![KB license](https://img.shields.io/badge/license-kibrom-brightgreen.svg)](#)
 
 ## Disease Categories
 
