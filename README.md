@@ -1,4 +1,4 @@
-# Tikur Chest X-ray14 Imaging Dataset: Advancing AI Research in Medical Imaging
+# Tikur Chest X-ray14 Imaging Dataset: Advancing AI Research
 
 [![KB license](https://img.shields.io/badge/license-KB-brightgreen.svg)](#)
 
